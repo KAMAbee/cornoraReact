@@ -52,7 +52,7 @@ const Carrier = () => {
       <header className="header">
         <div className="header__top"></div>
         <div className="header__back">
-          <a href="carrier.html" className="header__back-button">
+          <a href="whoAreU.html" className="header__back-button">
             <img src={login_reg_back} className="header__back-button-img" alt="Back" />
             <div className="header__back-button-text">Назад</div>
           </a>
